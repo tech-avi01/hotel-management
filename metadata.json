@@ -1,0 +1,6 @@
+{
+  "name": "Grand Stay - Hotel Management System",
+  "description": "Comprehensive hotel management system featuring room booking, guest management, real-time availability check, admin operations dashboard, and printable invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
